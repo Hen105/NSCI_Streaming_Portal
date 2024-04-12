@@ -1,8 +1,8 @@
 <template>
   <div id="app" class="container-fluid">
 
-    <b-jumbotron header="MyOrganization.tv"
-                 lead="Your home for watching live and on-demand broadcasts.">
+    <b-jumbotron header="NSCI Live Streaming Services"
+                 lead="Your home for watching live and on-demand services.">
     </b-jumbotron>
 
     <router-view/>

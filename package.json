@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint",
     "build:dist": "vue-cli-service build",
     "build:docs": "VUE_PUBLIC_PATH=/example_video_portal_vuejs vue-cli-service build --dest=docs"
+
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
